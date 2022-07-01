@@ -1,5 +1,11 @@
 # flutter assignment 2
 
+Link to the release-apk: https://drive.google.com/file/d/1Qf-BmDF-Z0vqSHTE1W0XU6JTM9VInaU0/view?usp=sharing
+Link to the folder with apk-files: https://drive.google.com/drive/folders/1zSYQz2hi_h1ZJyBZo6BA7NMofmHIsciB?usp=sharing
+
+(Screens are made from browser because emulator stopped working)
+
+
 My app now has new features. 
 
 Now project has  separated files for each page, main file and also for some logic features. 
