@@ -1,16 +1,19 @@
-# hhh
+# flutter assignment 2
 
-A new Flutter project.
+My app now has new features. 
 
-## Getting Started
+Now project has  separated files for each page, main file and also for some logic features. 
 
-This project is a starting point for a Flutter application.
+First difference from previous assignment is that now page with joke demonstrates two different buttons: Next for switching a joke, and Like icon - for adding to Favorites (which changes color after clicking on it) 
 
-A few resources to get you started if this is your first Flutter project:
+Also, app has additional screen with favourite jokes - they are shown as list of cards. 
+They even can be deleted (you can press on the Delete button)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To switch between pages - there is bottom navigation bar. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+One of additional features = search bar which allows to seatch for favorite jokes. 
+
+![image](https://user-images.githubusercontent.com/88401434/176971601-06e903e5-ca72-4c6e-90b3-fbe1a6efc8e0.png)
+![image](https://user-images.githubusercontent.com/88401434/176971619-728b7eba-fe40-4472-b543-e306edaa9769.png)
+![image](https://user-images.githubusercontent.com/88401434/176971661-16c88856-d222-4ad7-9891-fc291bdfe3b0.png)
+![image](https://user-images.githubusercontent.com/88401434/176971702-85fb1a7d-260c-4c17-8858-f1e5c492c15a.png)
